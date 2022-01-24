@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ## Create a Tibero Instance
 
 
@@ -241,6 +240,3 @@ The default accounts provided by Tibero are as follows.
 * SYSGIS: Creates GIS-related tables and performs GIS-related tasks.
 * OUTLN: Performs tasks such as storing related hints so that the same SQL can always be executed with the same plan.
 * TIBERO/TIBERO1: An example user with the DBA privilege.
-=======
-
->>>>>>> mjchoi
