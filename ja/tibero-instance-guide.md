@@ -75,7 +75,7 @@ rootボリューム以外の追加ボリュームを作成します。
 ![image.png](http://static.toastoven.net/prod_tibero/tibero_image10.png)
 
 SSHクライアントと設定したキーペアを利用してインスタンスに接続します。
-SSH接続の詳細については[SSH接続ガイド](https://docs.toast.com/ko/Compute/Instance/ko/overview/#linux)<span style="color:#313338">を参照してください。</span>
+SSH接続の詳細については[SSH接続ガイド](https://docs.nhncloud.com/ko/Compute/Instance/ko/overview/#linux)<span style="color:#313338">を参照してください。</span>
 
 ### TMIインストール
 

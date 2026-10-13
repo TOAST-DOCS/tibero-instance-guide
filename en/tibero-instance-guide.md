@@ -75,7 +75,7 @@ The instance must have a floating IP associated and TCP port 22 (SSH) must be al
 ![image.png](http://static.toastoven.net/prod_tibero/tibero_image10.png)
 
 Connect to the instance using an SSH client and the set key pair.
-For a detailed guide on SSH connection, refer to [SSH Connection Guide](https://docs.toast.com/en/Compute/Instance/en/overview/#linux).
+For a detailed guide on SSH connection, refer to [SSH Connection Guide](https://docs.nhncloud.com/en/Compute/Instance/en/overview/#linux).
 
 ### Install TMI
 

@@ -75,7 +75,7 @@ root 볼륨 이외의 추가 볼륨을 생성합니다.
 ![image.png](http://static.toastoven.net/prod_tibero/tibero_image10.png)
 
 SSH 클라이언트와 설정한 키페어를 이용해 인스턴스에 접속합니다.
-SSH 연결에 대한 자세한 가이드는 [SSH 연결 가이드](https://docs.toast.com/ko/Compute/Instance/ko/overview/#linux)<span style="color:#313338">를 참고하시기 바랍니다.</span>
+SSH 연결에 대한 자세한 가이드는 [SSH 연결 가이드](https://docs.nhncloud.com/ko/Compute/Instance/ko/overview/#linux)<span style="color:#313338">를 참고하시기 바랍니다.</span>
 
 ### TMI 설치
 
